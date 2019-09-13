@@ -2,3 +2,5 @@ jupyter
 jupyterlab
 nltk
 spacy
+textblob
+ipython
