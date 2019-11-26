@@ -4,3 +4,7 @@ nltk
 spacy
 textblob
 ipython
+matplotlib
+numpy
+scikit-learn
+
